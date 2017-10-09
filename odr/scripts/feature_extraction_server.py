@@ -5,7 +5,6 @@
 # @Date:   2016-12-09 15:10:13
 # @Last Modified by:   Kevin Sun
 # @Last Modified time: 2017-02-23 16:31:42
-
 import caffe
 from odr.srv import *
 from odr.msg import *
